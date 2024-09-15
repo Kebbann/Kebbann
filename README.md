@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kebbann I'm a pro developer from sweden
+- 👋 Hi, I’m Kebbann I'm pro developer from sweden
 
 <!---
 Kebbann/Kebbann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
